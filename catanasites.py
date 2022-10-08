@@ -2,7 +2,7 @@ import webbrowser as wb
 import random as rd
 
 print('-------------------------')
-print('|      VAL DO RIO       |')
+print('|      WWWWWWWWWWW       |')
 print('-------------------------')
 
 def randomica():
